@@ -1,4 +1,4 @@
-package com.mithuntechnology.demo;
+package com.Magnita.demo;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
